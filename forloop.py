@@ -15,5 +15,15 @@ for item in enumerate(x) : # can use " for index,value in enumerate(x)"
     index =item[0]
     value = item[1]
     print(index,value)
+
+
+for num in range(0,10):
+    print(num)  
+
+r= range(0,10)
+print(type(r)) 
+r1= range(0,len(x))   
+for item in r1:
+    print(item) 
    
 
