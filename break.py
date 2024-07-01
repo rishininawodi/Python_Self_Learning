@@ -5,4 +5,4 @@ while True:
     count +=3
 
     if count >=10:
-        break  #when icrrease 10 then break
+        break  #when icrrease 10 then break,stop
